@@ -4,13 +4,45 @@ Welcome to the **Programming Fundamentals** repository! This repository is desig
 
 ## Table of Contents
 
-1. [Loops 🔄](#loops-)
-2. [Arrays 📊](#arrays-)
-3. [Functions 🛠️](#functions-)
-4. [Structures 🏗️](#structures-)
-5. [Pointers 🧭](#pointers-)
-6. [File Handling 📁](#file-handling-)
-7. [String Handling 🔤](#string-handling-)
+1. [Hello World 🌍](#hello-world-)
+2. [Operators ➕➖✖️➗](#operators-)
+3. [Conditionals 🔀](#conditionals-)
+4. [Loops 🔄](#loops-)
+5. [Arrays 📊](#arrays-)
+6. [Functions 🛠️](#functions-)
+7. [Structures 🏗️](#structures-)
+8. [Pointers 🧭](#pointers-)
+9. [File Handling 📁](#file-handling-)
+10. [String Handling 🔤](#string-handling-)
+
+## Hello World 🌍
+
+The "Hello World" program is the simplest program you can write in any language. It is used to demonstrate the basic syntax of a programming language.
+
+## Operators ➕➖✖️➗
+
+Operators are symbols that tell the compiler to perform specific mathematical or logical manipulations. They are the foundation of any programming language.
+
+### Types of Operators
+
+- **Arithmetic Operators**: Perform basic mathematical operations like addition, subtraction, multiplication, and division.
+- **Relational Operators**: Compare two values and return a boolean result (true or false).
+- **Logical Operators**: Perform logical operations and return a boolean result.
+- **Bitwise Operators**: Perform operations on bits and are useful for low-level programming.
+- **Assignment Operators**: Assign values to variables.
+- **Unary Operators**: Operate on a single operand to produce a new value.
+- **Ternary Operator**: A shorthand for if-else condition.
+
+## Conditionals 🔀
+
+Conditionals are used to perform different actions based on different conditions. They are essential for decision-making in programming.
+
+### Types of Conditionals
+
+- **If Statement**: Executes a block of code if a specified condition is true.
+- **If-Else Statement**: Executes one block of code if a condition is true, and another block if it is false.
+- **Else-If Ladder**: Checks multiple conditions in sequence and executes the corresponding block of code.
+- **Switch Statement**: Allows a variable to be tested for equality against a list of values.
 
 ## Loops 🔄
 
@@ -92,4 +124,3 @@ Feel free to explore each section for detailed explanations and examples. Happy 
 ### Contributing
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
