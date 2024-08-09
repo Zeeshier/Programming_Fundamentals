@@ -8,12 +8,12 @@ Welcome to the **Programming Fundamentals** repository! This repository is desig
 2. [Operators ➕➖✖️➗](#operators-)
 3. [Conditionals 🔀](#conditionals-)
 4. [Loops 🔄](#loops-)
-5. [Arrays 📊](#arrays-)
-6. [Functions 🛠️](#functions-)
-7. [Structures 🏗️](#structures-)
-8. [Pointers 🧭](#pointers-)
-9. [File Handling 📁](#file-handling-)
-10. [String Handling 🔤](#string-handling-)
+5. [Nested Loops 🔁](#nested-loops-)
+6. [Arrays 📊](#arrays-)
+7. [Functions 🛠️](#functions-)
+8. [Structures 🏗️](#structures-)
+9. [Pointers 🧭](#pointers-)
+10. [File Handling 📁](#file-handling-)
 
 ## Hello World 🌍
 
@@ -53,6 +53,16 @@ Loops are used to execute a block of code repeatedly. They are essential for per
 - **For Loop**: Iterates a specific number of times, making it useful when the number of iterations is known beforehand.
 - **While Loop**: Continues to execute as long as a specified condition is true, making it suitable for scenarios where the number of iterations is not known.
 - **Do-While Loop**: Similar to the while loop, but guarantees that the loop body is executed at least once.
+
+## Nested Loops 🔁
+
+Nested loops involve placing one loop inside another. They are often used for working with multi-dimensional data structures like matrices.
+
+### Key Concepts
+
+- **Inner and Outer Loops**: Understanding how the inner loop completes all its iterations for each iteration of the outer loop.
+- **Common Use Cases**: Examples include working with multi-dimensional arrays and complex pattern generation.
+- **Performance Considerations**: The importance of being aware of the time complexity when using nested loops.
 
 ## Arrays 📊
 
@@ -104,16 +114,6 @@ File handling involves reading from and writing to files. It is essential for da
 - **Opening and Closing Files**: How to open, read, write, and close files.
 - **Reading and Writing Data**: How to handle data in text and binary files.
 - **Error Handling**: How to handle errors during file operations.
-
-## String Handling 🔤
-
-String handling involves working with sequences of characters. It includes operations like concatenation, comparison, and manipulation of strings.
-
-### Key Concepts
-
-- **String Declaration and Initialization**: How to create and initialize strings.
-- **String Functions**: Common functions for manipulating strings, such as length, copy, concatenate, and compare.
-- **Character Arrays**: How strings are represented as arrays of characters.
 
 ---
 
